@@ -1,0 +1,5 @@
+venv/
+frontend/node_modules/
+models/
+*.pkl
+__pycache__/
